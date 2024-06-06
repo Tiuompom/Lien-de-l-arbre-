@@ -1,7 +1,8 @@
 # L'ien de l'arbre 
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
-Ce projet est une simple page HTML/CSS qui reproduit l'apparence et les fonctionnalités de base de Linktree. Linktree permet aux utilisateurs de créer une page unique contenant plusieurs liens vers leurs différents profils de réseaux sociaux et autres ressources en ligne. Ce projet est réalisé dans le cadre de mes études.
+
+*Ce projet est une simple page HTML/CSS qui reproduit l'apparence et les fonctionnalités de base de Linktree. Linktree permet aux utilisateurs de créer une page unique contenant plusieurs liens vers leurs différents profils de réseaux sociaux et autres ressources en ligne. Ce projet est réalisé dans le cadre de mes études.
 
 
 ### Pré-requis
