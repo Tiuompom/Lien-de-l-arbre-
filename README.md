@@ -5,7 +5,7 @@
 Ce projet est une simple page HTML/CSS qui reproduit l'apparence et les fonctionnalités de base de Linktree. Linktree permet aux utilisateurs de créer une page unique contenant plusieurs liens vers leurs différents profils de réseaux sociaux et autres ressources en ligne. Ce projet est réalisé dans le cadre de mes études.
 
 
-### Pré-requis
+## Pré-requis
 
 Faut t'il avoir des prérequis en codage pour mettre au monde ce projet? Non, vu les avancés technologique "récente", l'IA et les tutos, il n'est pas nécessaire d'avoir des bases au préalable. 
 
