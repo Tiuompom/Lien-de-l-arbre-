@@ -18,4 +18,4 @@ Faut t'il avoir des prérequis en codage pour mettre au monde ce projet? Non, vu
 
 ## Auteurs
 
-* **Moussi Lucas** _alias_ [@Tiuompom](https://github.com/tiuompom))
+* **Moussi Lucas** _alias_ [@Tiuompom](https://github.com/tiuompom)
